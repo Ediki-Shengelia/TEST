@@ -1,0 +1,81 @@
+.header-bg{
+    margin-top: 80px;
+    margin-bottom: 48px;
+    margin-left: 52px;
+    margin-right: 52px;
+    width: 1336px;
+    height: 178px;
+}
+.box-1{
+    width: 716px;
+    height: 92px;
+    padding: 0 310px;
+    margin-bottom: 16px;
+   
+}
+.box-h1{
+    width: 716px;
+    height: 26px;
+    text-align: center;
+    line-height: 62px;
+}
+.h1-1{
+    font-size: 16px;
+    line-height: 26px;
+    
+}
+.box-h1-2{
+    width: 716px;
+    height: 62px;
+    text-align: center;
+    line-height: 35px;
+}
+.h1-2{
+    font-size: 54px;
+    line-height: 62px;
+
+}
+.box-2{
+    width: 760px;
+    height: 70px;
+    padding: 0 288px;
+    margin-top: 25px;
+}
+.box-h1{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+    
+
+}
+.top-box{
+    display: flex;
+}
+.div-1{
+    width: 310px;
+    height: 168px;
+
+}
+.h1-1{
+    font-size: 18px;
+    line-height: 30px;
+
+}
+.h3-1{
+    font-size: 14px;
+    line-height: 22px;
+}
+.p-1{
+    font-size: 14px;
+    line-height: 22px;
+}
+.section-box{
+    margin: 48px 52px;
+}
+.top-box{
+    justify-content: space-around;
+}
+.bottom-box{
+    justify-content: space-around;
+    display: flex;
+}
